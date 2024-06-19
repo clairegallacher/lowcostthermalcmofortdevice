@@ -11,7 +11,7 @@ The device is based on an Adafruit Feather M0 Adalogger and sensors for:
 - global temperature [Max 31865 Pt100 and black aluminium globe]([)](https://www.antratek.de/pt100-rtd-temperature-sensor-amplifier-max31865)
 
 These variables are important inputs for calculating thermal comfort indices, which offer a comprehensive understanding of pedestrian thermal comfort conditions. 
-According to its data sheet, the inclusion of a [NEO-M9N Sparkfun Global Navigation Satellite System (GNSS)]([)](https://exp-tech.de/en/products/sparkfun-gps-breakout-neo-m9n-sma-qwiic) module enables precise spatial referencing of the meteorological data, with an accuracy of approximately 2.0 m Circular Error Probable (CEP). Related works provide comparison data to established high-cost systems, which demonstrate the suitability of this device for its purpose.
+According to its data sheet, the inclusion of a [NEO-M9N Sparkfun Global Navigation Satellite System (GNSS)](https://exp-tech.de/en/products/sparkfun-gps-breakout-neo-m9n-sma-qwiic) module enables precise spatial referencing of the meteorological data, with an accuracy of approximately 2.0 m Circular Error Probable (CEP). Related works provide comparison data to established high-cost systems, which demonstrate the suitability of this device for its purpose.
 
 # Other sources
 
